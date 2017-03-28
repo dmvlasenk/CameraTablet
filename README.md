@@ -1,6 +1,5 @@
 # CameraTablet
 
-
 Using CameraTablet you can move mouse cursor by moving an index finger. The typical usage of the software: you work  text files (programming, writing, etc.) and do not want to move constantly your hand from keyboard to mouse and back.
 Then you press hotkey to switch CameraTablet on, move the mouse cursor by index finger, emulate mouse click by other hotkey, then switch CameraTablet off.
 
